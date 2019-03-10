@@ -17,10 +17,10 @@ make
 Or:
 
 ```shell
-groovy createMarkdown.groovy DMP.i.md NanoCommons 731032 > DMP.md
+groovy createMarkdown.groovy DMP.i.md RiskGONE 814425 > DMP.md
 ```
 
 ## Acknowledgments
 
-This project has received funding for RiskGONE from European Union Horizon 2020 Programme (H2020) under grant agreement nº 814425.
+This project has received funding for <project> from European Union Horizon 2020 Programme (H2020) under grant agreement nº 814425.
 This project has received funding for NanoCommons from European Union Horizon 2020 Programme (H2020) under grant agreement nº 731032.
