@@ -1,4 +1,4 @@
-# NanoCommons Data Management Plan
+# RiskGONE Data Management Plan
 
 This repository contains a Markdown version of the [NanoCommons Data Management Plan](DMP.md). The authors are listed in the [AUTHORS](AUTHORS.md) file
 and the license is given in the [LICENSE](LICENSE.md) file. The CC-BY license allows reuse but requires attribution. All authors and projects must
@@ -22,4 +22,5 @@ groovy createMarkdown.groovy DMP.i.md NanoCommons 731032 > DMP.md
 
 ## Acknowledgments
 
-This project has received funding from European Union Horizon 2020 Programme (H2020) under grant agreement nº 731032.
+This project has received funding for RiskGONE from European Union Horizon 2020 Programme (H2020) under grant agreement nº 814425.
+This project has received funding for NanoCommons from European Union Horizon 2020 Programme (H2020) under grant agreement nº 731032.
